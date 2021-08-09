@@ -10,31 +10,31 @@ module.exports = [
         text: '前端文章',
         items: [
           { text: 'JavaScript', link: '/pages/8143cc480faf9a11/' },
-          { text: 'Vue', link: '/pages/5d463fbdb172d43b/' },
+          // { text: 'Vue', link: '/pages/5d463fbdb172d43b/' },
         ],
       },
       {
         text: '学习笔记',
         items: [
-          { text: '《JavaScript教程》笔记', link: '/note/javascript/' },
-          { text: '《JavaScript高级程序设计》笔记', link: '/note/js/' },
-          { text: '《ES6 教程》笔记', link: '/note/es6/' },
-          { text: '《Vue》笔记', link: '/note/vue/' },
-          { text: '《React》笔记', link: '/note/react/' },
+          { text: '《JavaScript教程》', link: '/note/javascript/' },
+          { text: '《JavaScript高级程序设计》', link: '/note/js/' },
+          { text: '《ES6 教程》', link: '/note/es6/' },
+          { text: '《Vue》', link: '/note/vue/' },
+          { text: '《React》', link: '/note/react/' },
           {
             text: '《TypeScript 从零实现 axios》',
             link: '/note/typescript-axios/',
           },
           {
-            text: '《Git》学习笔记',
+            text: '《Git》',
             link: '/note/git/',
           },
           {
-            text: 'TypeScript笔记',
+            text: 'TypeScript',
             link: '/pages/51afd6/',
           },
           {
-            text: 'JS设计模式总结笔记',
+            text: 'JS设计模式总结',
             link: '/pages/4643cd/',
           },
         ],
